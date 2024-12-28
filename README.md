@@ -2,6 +2,15 @@
 - Basic RAG implementation used in Gen AI workshop for ACSS hackathon participants.
 - Key components: APIs for ingestion, retrieval, augmentation, and generation
 
+Tech Stach/Libraries used:
+- Nextjs App Router
+- Langchain
+- Openai
+
+Models used:
+- completion: gpt-4o-mini
+- embedding: text-embedding-3-small
+
 Vector Database: 
 - Pinecone
 - Read the docs here: https://docs.pinecone.io/guides/get-started/overview
